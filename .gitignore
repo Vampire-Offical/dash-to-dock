@@ -1,0 +1,13 @@
+.~
+*~
+gschemas.compiled
+dash-to-dock@tauos.co*.zip
+*.mo
+po/dashtodock.pot
+stylesheet.css
+_build
+*.ui.h
+
+*.tar.gz
+*.log
+*.rpm

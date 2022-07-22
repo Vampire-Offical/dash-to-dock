@@ -1,0 +1,707 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2017-09-20 18:56+0200\n"
+"Last-Translator: Slobodan Terzić <Xabre@archlinux.info>\n"
+"Language-Team: \n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Izbegavanje rozora"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Izbegavanje rozora"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Prikaz omiljenih programa"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Prikaz omiljenih programa"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "prikaži sličice prozora"
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "napusti"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+msgid "Settings"
+msgstr ""
+
+#: locations.js:884
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr ""
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Radnja šift+klika"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Kad je postavljeno na minimizovanje, dupli klik minimizuje sve prozore "
+"programa."
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "izdigni prozor"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "minimizuj prozor"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "pokreni novi primerak"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "kruženje kroz prozore"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+msgid "Minimize or overview"
+msgstr "minimiuj ili pregled"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+msgid "Show window previews"
+msgstr "prikaži sličice prozora"
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+#, fuzzy
+msgid "Minimize or show previews"
+msgstr "minimiuj ili pregled"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+#, fuzzy
+msgid "Focus or show previews"
+msgstr "prikaži sličice prozora"
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+#, fuzzy
+msgid "Focus, minimize or show previews"
+msgstr "minimiuj ili pregled"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Radnja srednjeg klika"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "Ponašanje srednjeg klika."
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Radnja šift+srednjegklika"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Ponašanje šift+srednjeg klika."
+
+#: Settings.ui:126
+#, fuzzy
+msgid "Enable Unity 7-like Backlit Items"
+msgstr "Uključi pozadinske efekte poput Unity7"
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+msgid "Use Dominant Color"
+msgstr ""
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Prilagoćavanje stila indikatora"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Boja"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Boja ivice"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Širina ivice"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Prikaz omiljenih programa"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Prikaz pokrenutih programa"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Izoluj radne prostore."
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Izoluj monitore."
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Izbegavanje rozora"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "prikaži sličice prozora"
+
+#: Settings.ui:303
+msgid "Focused Apps Always Visible"
+msgstr ""
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "Prikaz ikonice <i>Prikaži programe</i>"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Ukoliko je onemogućeno, ove postavke su dostupne kroz alatku za lickanje ili "
+"veb sajt proširenja."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "Prikaži dok na"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "prikaži sličice prozora"
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+msgid "Isolate Windows From File Manager"
+msgstr ""
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Ponašanje"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "Prikaži dok na"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Izoluj monitore."
+
+#: Settings.ui:446
+msgid "Window Preview Size Scale"
+msgstr ""
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Aktiviraj programe prečicama tastature"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Uključuje Super+(0-9) kao prečice za aktivaciju programa. Takođe je moguće "
+"koristiti uz shift i ctrl."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Radnja klika"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Ponašanje pri kliku na pokrenuti program."
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "minimizuj"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Radnja klizanja na ikonicu"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Ponašanje pri klizanju na ikonicu pokrenutog programa."
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "ništa"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "prebaci radni prostor"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Izgled"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Koristi ugrađenu temu"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr "Čuva prostor sužavanjem popune i opsega ivica."
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Prilagoćavanje stila indikatora"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr ""
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr ""
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr ""
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr ""
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr ""
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr ""
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr ""
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr ""
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Boja"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "Postavi pozadinsku boju ploče."
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Prozirnost"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "Prilagodi prozirnost pozadine ploče."
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr ""
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr ""
+
+#: Settings.ui:748
+msgid "Squared Corners"
+msgstr ""
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "O programu"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Pomera ploču iz globalnog prikaza, pretvarajući je u dok"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "verzija: "
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Ovaj program se dostavlja BEZ IKAKVIH GARANCIJA.\n"
+"Pogledajte <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNUovu Opštu Javnu licencu, verzija 2 ili kasnija</a>, za detalje.</span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Prilagoćavanje prozirnosti"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Prilagoćavanje prozirnosti"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Prilagoćavanje prozirnosti"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Brojne nalepnice"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr ""
+"Privremeno prikaži brojeve programa iznad ikonica, prema pripadajućoj "
+"prečici."
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "Prikaži dok na"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Ukoliko se koristi automatsko sakrivanje, dok će se prikazati na trenutak "
+"pri okidanju prečice."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Sintaksa: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Zastoj skrivanja"
+
+#, fuzzy
+#~ msgid "Primary monitor: "
+#~ msgstr "primarnom monitoru"
+
+#~ msgid "Secondary monitor "
+#~ msgstr "sekundarnom monitoru"
+
+#~ msgid "Right"
+#~ msgstr "desno"
+
+#~ msgid "Left"
+#~ msgstr "levo"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Postavke inteligentnog automatskog sakrivanja"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Povrati osnovno"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "Prikaži dok i brojeve programa"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Prilagoćavanje ponašanja srednjeg klika"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Prilagođavanje indikatora pokrenutih"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Prilagoćavanje prozirnosti"
+
+#~ msgid "All Windows"
+#~ msgstr "Svi prozori"
+
+#, fuzzy, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "Svi prozori"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "%s ploče/panela"
+
+#~ msgid "Bottom"
+#~ msgstr "dno"
+
+#~ msgid "Top"
+#~ msgstr "vrh"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Inteligentno automatsko sakrivanje"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "Sakrij dok kada je na putu prozora trenutnog programa. Dostupne su finije "
+#~ "postavke."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Ograničenje veličine doka"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Ograničenje veličine ikonica"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr "Ustaljena veličina ikonica: klizajte za druge ikone"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "Prikaži dok prelazom miša peko ivice ekrana."
+
+#, fuzzy
+#~ msgid "Push to Show Dock"
+#~ msgstr "%s ploče/panela"
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Omogući u celoekranskom režimu"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr "Prikazuje dok kada nije na putu prozorima programa."
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Svi prozori"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Samo maksimizovani prozori"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Trajanje(a) animacije"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Zastoj skrivanja"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Zastoj prikazivanja"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Prag pritiska"
+
+#~ msgid "Show on all monitors."
+#~ msgstr "Prikaži na svim monitorima."
+
+#~ msgid "Position on screen"
+#~ msgstr "Pozicija na ekranu"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Režim panela: proširen do ivica ekrana"
+
+#~ msgid "Position and size"
+#~ msgstr "Pozicija i veličina"
+
+#, fuzzy
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Prikaži sličice otvorenih prozora."
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Prikaži sličice otvorenih prozora."
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Pomeri dugme programa na početak doka."
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "Animiraj prikaz programa."
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Prikaži sličice otvorenih prozora."
+
+#~ msgid "Launchers"
+#~ msgstr "Pokretači"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Nekoliko postavki namenjenih ugrađivanju doka u osnovnu temu Gnoma. "
+#~ "Alternativno, posebne postavke se mogu urediti ispod."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "Skupi ploču"
+
+#, fuzzy
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Prikaz indikatora brojača prozora."
+
+#~ msgid "Customize the dash color"
+#~ msgstr "Prilagodi boju ploče"
+
+#, fuzzy
+#~ msgid "Force straight corner"
+#~ msgstr "Nametni ravne uglove\n"
+
+#~ msgid "Webpage"
+#~ msgstr "Veb stranica"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "Prikaži dok ukoliko je sakriven"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Prečica za gore navedene opcije"
+
+#~ msgid "Autohide"
+#~ msgstr "Automatsko sakrivanje"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Prikaz pritiskom: zahteva pritisak za prikaz doka"
+
+#~ msgid "All windows"
+#~ msgstr "Svi prozori"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Samo prozor fokusiranog programa"
+
+#~ msgid "Show a dot for each windows of the application."
+#~ msgstr "Prikazuje tačku za svaki prozor programa."
+
+#~ msgid "Created by"
+#~ msgstr "Napravi"
+
+#~ msgid "0.000"
+#~ msgstr "0,000"
+
+#, fuzzy
+#~ msgid ""
+#~ "With fixed icon size, only the edge of the dock and the <i>Show "
+#~ "Applications</i> icon are active."
+#~ msgstr ""
+#~ "Ako se ikone preklapaju na doku, prikazuje se samo ikona <i>Prikaži "
+#~ "programe</i>."
+
+#~ msgid "Switch workspace by scrolling on the dock"
+#~ msgstr "Promena radnog prostora klizanjem po doku"
+
+#~ msgid "Only consider windows of the focused application"
+#~ msgstr "Razmatraj samo prozor fokusiranog programa"

@@ -1,0 +1,706 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Carlos Alberto Junior Spohr Poletto <carlos.spohr@gmail.com>, 2012.
+# Fábio Nogueira <fnogueira@gnome.org>, 2016.
+# Lucas Fank <lucaslucasfank@gmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2021-06-30 10:40-0300\n"
+"Last-Translator: Lucas Fank <lucaslucasfank@gmail.com>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Esconder janela"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Esconder janela"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Mostrar aplicativos favoritos"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Mostrar aplicativos favoritos"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "Mostrar pré-visualizações das janelas"
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "Sair"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+msgid "Settings"
+msgstr ""
+
+#: locations.js:884
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr ""
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Ação do Shift+Clique"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Quando minimizar, o duplo clique minizará todas as janelas dos aplicativos"
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "Aumentar janela"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "Minimizar janela"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "Iniciar nova instância"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "Percorrer através das janelas"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+msgid "Minimize or overview"
+msgstr "Minimizar ou visão geral"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+msgid "Show window previews"
+msgstr "Mostrar pré-visualizações das janelas"
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+msgid "Minimize or show previews"
+msgstr "Minimizar ou mostrar pré-visualizações"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+msgid "Focus or show previews"
+msgstr "Pôr em foco ou mostrar pré-visualizações"
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+#, fuzzy
+msgid "Focus, minimize or show previews"
+msgstr "Minimizar ou mostrar pré-visualizações"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Ação do Clique do botão do meio"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "Comportamento do Clique do botão do meio."
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Ação do Shift+Clique do botão do meio"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Comportamento para Shift + Clique do botão do meio."
+
+#: Settings.ui:126
+#, fuzzy
+msgid "Enable Unity 7-like Backlit Items"
+msgstr "Ativar retroiluminação estilo Unity 7 dos elementos"
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+#, fuzzy
+msgid "Use Dominant Color"
+msgstr "Usar cor dominante"
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Customizar o estilo do indicador"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Cor"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Tamanho da borda"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Mostrar aplicativos favoritos"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Mostrar aplicativos em execução"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Isolar espaços de trabalho."
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Isolar monitores."
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Esconder janela"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "Mostrar pré-visualizações das janelas"
+
+#: Settings.ui:303
+msgid "Focused Apps Always Visible"
+msgstr ""
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "Exibir ícone dos <i>Aplicativos</i>"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Se desabilitado, essas configurações estão acessíveis através do gnome-tweak-"
+"tool ou no site da extensão."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "Mostrar Lixeira"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "Mostrar pré-visualizações das janelas"
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+msgid "Isolate Windows From File Manager"
+msgstr ""
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Comportamento"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "Exibir o dock"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Isolar monitores."
+
+#: Settings.ui:446
+msgid "Window Preview Size Scale"
+msgstr ""
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Usar atalhos de teclado para ativar aplicativos"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Habilita tecla Super+(0-9) como atalhos para ativar aplicativos. Também pode "
+"ser usado junto com Shift e Ctrl."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Ação do clique"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Comportamento ao clicar sobre o ícone de um aplicativo em execução."
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "Minimizar"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Ação da rolagem"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Comportamento ao rolar sobre o ícone de um aplicativo."
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "Não fazer nada"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "Alternar espaço de trabalho"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Aparência"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Usar o tema do sistema"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr "Economizar espaço reduzindo preenchimento e a borda arredondada"
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Customizar o estilo do indicador"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr "Padrão"
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr "Pontos"
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr "Quadrados"
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr "Linhas"
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr "Segmentado"
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr "Sólido"
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr "Ciliora"
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr "Metro"
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Cor"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "Define a cor de fundo para o dash."
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Opacidade"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "Ajustar a opacidade do fundo do dash."
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr "Fixo"
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr "Dinâmico"
+
+#: Settings.ui:748
+#, fuzzy
+msgid "Squared Corners"
+msgstr "Quadrados"
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "Sobre"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Mover o dash para fora da visão geral transformando-o em dock"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "versão:"
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Este programa é distribuido SEM QUALQUER GARANTIA.\n"
+"Veja em <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, versão 2 ou posterior</a> para maiores "
+"detalhes.</span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Customizar opacidade"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Opacidade mínima"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Opacidade máxima"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Sobreposição de número"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr ""
+"Mostrar temporariamente os números dos aplicativos sobre os ícones, "
+"correspondentes ao atalho."
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "Exibir o dock"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Se utilizar a ocultação, o dock será exibido por um curto período de tempo "
+"ao acionar o atalho."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Sintaxe: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Ocultar tempo limite [s]"
+
+#, fuzzy
+#~ msgid "Primary monitor: "
+#~ msgstr "Monitor primário"
+
+#~ msgid "Secondary monitor "
+#~ msgstr "Monitor secundário"
+
+#~ msgid "Right"
+#~ msgstr "Direita"
+
+#~ msgid "Left"
+#~ msgstr "Esquerda"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Configuração da ocultação inteligente"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Restaurar o padrão"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "Exibir o dock e os números dos aplicativos"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Customizar o comportamento do clique do botão do meio"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Customizar os indicadores de execução"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Customizar opacidade"
+
+#~ msgid "All Windows"
+#~ msgstr "Todas as janelas"
+
+#, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "Sair %d janelas"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "%s do Dash to Dock"
+
+#~ msgid "Mount"
+#~ msgstr "Montar"
+
+#~ msgid "Unmount"
+#~ msgstr "Desmontar"
+
+#~ msgid "Eject"
+#~ msgstr "Ejetar"
+
+#~ msgid "Trash"
+#~ msgstr "Lixeira"
+
+#~ msgid "Empty Trash"
+#~ msgstr "Limpar Lixeira"
+
+#~ msgid "Bottom"
+#~ msgstr "Embaixo"
+
+#~ msgid "Top"
+#~ msgstr "Em cima"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Ocultação inteligente"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "Ocultar o dock quando o mesmo sobrepor a janela do aplicativo em uso. "
+#~ "Definições mais aperfeiçoadas estão disponíveis."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Tamanho limite do dock"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Tamanho limite do ícone"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr ""
+#~ "Tamanho do ícone fixo: use o scroll do mouse para revelar outro ícone"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "Mostrar o dock quando o mouse pairar sobre a tela."
+
+#, fuzzy
+#~ msgid "Push to Show Dock"
+#~ msgstr "%s do Dash to Dock"
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Habilitar modo tela cheia"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr "Mostrar o dock quando nenhum aplicativo sobrepor o mesmo."
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Sair %d janelas"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Somente janelas maximizadas"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Tempo da animação [s]"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Ocultar tempo limite [s]"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Mostrar tempo limite [s]"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Limite de pressão"
+
+#~ msgid "Show on all monitors."
+#~ msgstr "Mostrar em todos os monitores."
+
+#~ msgid "Position on screen"
+#~ msgstr "Posição na tela"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Modo do painel: estender até a borda da tela"
+
+#~ msgid "Position and size"
+#~ msgstr "Posição e tamanho"
+
+#, fuzzy
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Mostrar pré-visualizações de janelas abertas."
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Mostrar pré-visualizações de janelas abertas."
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Mover o botão de aplicativos para o início do dock."
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "<i>Mostrar aplicativos</i> com efeitos."
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Mostrar volumes montados e dispositivos"
+
+#~ msgid "Launchers"
+#~ msgstr "Lançadores"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Algumas personalizações se destinam a integrar o dock com o tema padrão "
+#~ "do GNOME. Alternativamente, as opções específicas podem ser ativadas "
+#~ "abaixo."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "Encolher o dash"
+
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Customizar indicadores de contagem de janelas"
+
+#~ msgid "Customize the dash color"
+#~ msgstr "Customizar a cor do dash"
+
+#, fuzzy
+#~ msgid "Force straight corner"
+#~ msgstr "Forçar canto reto\n"
+
+#~ msgid "Webpage"
+#~ msgstr "Página Web"
+
+#~ msgid "Customize minimum and maximum opacity values"
+#~ msgstr "Customizar os valores mínimo e máximo da opacidade"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "Exibir o dock se este estiver oculto"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Atalho para as opções acima"
+
+#~ msgid "Autohide"
+#~ msgstr "Ocultação"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Empurrar para mostrar: requer pressão para mostrar o dock"
+
+#~ msgid "All windows"
+#~ msgstr "Todas as janelas"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Apenas janelas de aplicativos em foco"
+
+#~ msgid "Created by"
+#~ msgstr "Criado por"

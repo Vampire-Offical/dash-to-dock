@@ -1,0 +1,817 @@
+# Russian translation for dash-to-dock GNOME Shell extension
+# Ivan Komaritsyn <vantu5z@mail.ru>, 2015-2020.
+# Eduard Minasyan <mreditor@mail.ru>, 2021.
+# Timofey Hrapovitskiy <vuki03@mail.ru>, 2021
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2021-12-03 21:48+0300\n"
+"Last-Translator: Timofey Hrapovitskiy <vuki03@mail.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Перекрытие окнами"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Перекрытие окнами"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Показывать избранные приложения"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Показывать избранные приложения"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "Показать миниатюры окон"
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "Выйти"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+#, fuzzy
+msgid "Settings"
+msgstr "Основные настройки"
+
+#: locations.js:884
+#, fuzzy, javascript-format
+msgid "Failed to launch “%s”"
+msgstr "Ошибка запуска «%s»"
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Действие по Shift+Click"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Если установлено на «Минимизировать», то двойной клик минимизирует все окна "
+"данного приложения."
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "Показать окно"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "Минимизировать окно"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "Открыть новое окно"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "Переключить окно приложения"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+msgid "Minimize or overview"
+msgstr "Минимизация или обзор"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+msgid "Show window previews"
+msgstr "Показать миниатюры окон"
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+msgid "Minimize or show previews"
+msgstr "Минимизация или показ миниатюр"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+msgid "Focus or show previews"
+msgstr "Фокус или показ миниатюр"
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+msgid "Focus, minimize or show previews"
+msgstr "Фокус, минимизация или показ миниатюр"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Действие по Middle-Click"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "Действие по нажатию средней кнопки мыши."
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Действие по Shift+Middle-Click"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Действие по нажатию Shift + средняя кнопка мыши."
+
+#: Settings.ui:126
+#, fuzzy
+msgid "Enable Unity 7-like Backlit Items"
+msgstr "Включить подсветку элементов как в Unity7"
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+#, fuzzy
+msgid "Use Dominant Color"
+msgstr "Использовать доминирующий цвет"
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Настроить стиль индикатора"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Цвет"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Ширина границы"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Показывать избранные приложения"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Показывать запущенные приложения"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Изолировать рабочие столы."
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Изолировать мониторы."
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Перекрытие окнами"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "Показать миниатюры окон"
+
+#: Settings.ui:303
+#, fuzzy
+msgid "Focused Apps Always Visible"
+msgstr "Док зафиксирован и всегда виден"
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "Показывать иконку <i>«Приложения»</i>"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Если отключено, то эти настройки доступны в gnome-tweak-tool или через сайт "
+"дополнений."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "Показывать корзину"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "Показать миниатюры окон"
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+#, fuzzy
+msgid "Isolate Windows From File Manager"
+msgstr "Изолировать окна носителей, устройств и корзины от файлового менеджера"
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Поведение"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "Показывать Док на:"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Изолировать мониторы."
+
+#: Settings.ui:446
+#, fuzzy
+msgid "Window Preview Size Scale"
+msgstr "Масштаб миниатюр"
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Использовать сочетания клавиш для выбора приложений"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Включить сочетания клавиш Super+(0-9) для выбора приложений. Также может "
+"быть использовано совместно с Shift и Ctrl."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Действие по нажатию"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Поведение при нажатии на иконку запущенного приложения."
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "Минимизировать"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Действие при прокрутке"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Поведение при прокрутке на иконке приложения."
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "Переключить рабочий стол"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Использовать встроенную тему"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr ""
+"Экономия рабочего пространства за счёт уменьшения промежутков и "
+"использования скругленных углов."
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Настроить стиль индикатора"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr "По умолчанию"
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr "Точки"
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr "Квадраты"
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr "Линии"
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr "Сегменты"
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr "Слитно"
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr "Ciliora"
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr "Metro"
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Цвет"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "Вобор цвета фона для панели."
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Непрозрачность"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "Настройка прозрачности фона Дока."
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr "Постоянная"
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr "Динамическая"
+
+#: Settings.ui:748
+#, fuzzy
+msgid "Squared Corners"
+msgstr "Квадраты"
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "О дополнении"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Превращает панель из режима «Обзор» в полноценный док"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "версия: "
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Эта программа распространяется БЕЗ КАКИХ ЛИБО "
+"ГАРАНТИЙ.\n"
+"Смотри <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, версия 2 или позднее</a> для информации.</"
+"span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Настроить прозрачность"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Минимальная непрозрачность"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Максимальная непрозрачность"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Показать номера"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr ""
+"Временно показывать номера приложений рядом с иконками, при нажатии "
+"сочетания клавиш."
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "Показывать Док на:"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Если используется автоматическое скрытие, то Док кратковреммено появится при "
+"обработке сочетания клавиш."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Синтаксис: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Задержка скрытия (сек.)"
+
+#~ msgid "Primary monitor: "
+#~ msgstr "Основной монитор: "
+
+#~ msgid "Secondary monitor "
+#~ msgstr "Дополнительный монитор "
+
+#~ msgid "Right"
+#~ msgstr "Справа"
+
+#~ msgid "Left"
+#~ msgstr "Слева"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Настройка автоскрытия"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Сбросить настройки"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "Показывать номера приложений"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Настройка действий для средней кнопки мыши"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Настройка индикаторов запущенных приложений"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Настроить прозрачность"
+
+#~ msgid "All Windows"
+#~ msgstr "Все окна"
+
+#, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "Закрыть %d окон"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "Dash to Dock %s"
+
+#~ msgid "Mount"
+#~ msgstr "Монтировать"
+
+#~ msgid "Unmount"
+#~ msgstr "Размонтировать"
+
+#~ msgid "Eject"
+#~ msgstr "Извлечь"
+
+#, fuzzy, javascript-format
+#~ msgid "Failed to umount “%s”"
+#~ msgstr "Ошибка запуска «%s»"
+
+#, fuzzy, javascript-format
+#~ msgid "Failed to eject “%s”"
+#~ msgstr "Ошибка запуска «%s»"
+
+#~ msgid "Trash"
+#~ msgstr "Корзина"
+
+#~ msgid "Empty Trash"
+#~ msgstr "Очистить Корзину"
+
+#, fuzzy
+#~ msgid "Screen Position"
+#~ msgstr "Расположение Дока"
+
+#~ msgid "Bottom"
+#~ msgstr "Снизу"
+
+#~ msgid "Top"
+#~ msgstr "Сверху"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Интеллектуальное скрытие"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "Скрывать Док, если он перекрывается окном активного приложения. Доступны "
+#~ "дополнительные настройки."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Ограничение размера Дока"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Ограничение размера иконок"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr ""
+#~ "Фиксированный размер иконок: используйте прокрутку для доступа к нужному "
+#~ "приложению"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "Показать Док при подведении мыши к стороне экрана."
+
+#, fuzzy
+#~ msgid "Push to Show Dock"
+#~ msgstr "Dash to Dock %s"
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Включить в полноэкранном режиме"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr "Скрывать Док, когда он перекрыт окнами приложений"
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Закрыть %d окон"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Только развёрнутые окна"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Время анимации (сек.)"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Задержка скрытия (сек.)"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Задержка открытия (сек.)"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Порог давления"
+
+#~ msgid "Show on all monitors."
+#~ msgstr "Показывать на всех мониторах."
+
+#~ msgid "Position on screen"
+#~ msgstr "Расположение на экране"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Режим панели: растянуть по всей стороне экрана"
+
+#~ msgid "Position and size"
+#~ msgstr "Положение и размер"
+
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Показывать срочные окна независимо от текущего рабочего стола."
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Показывать миниатюры открытых окон."
+
+#~ msgid "Keep the focused application always visible in the dash"
+#~ msgstr "Оставлять приложение в фокусе видимым в Доке"
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Расположить кнопку «Приложения» с другой стороны Дока."
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "Анимация при показе <i>«Приложений»</i>"
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Показывать примонтированные разделы и устройства"
+
+#~ msgid "Launchers"
+#~ msgstr "Иконки"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Сбалансированные настройки для интеграции Дока с темой Gnome по "
+#~ "умолчанию. Ниже можно установить настройки вручную."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "Сжать Док"
+
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Настроить индикаторы количества окон"
+
+#~ msgid "Customize the dash color"
+#~ msgstr "Настроить цвет Дока"
+
+#~ msgid "Force straight corner"
+#~ msgstr "Не скруглять углы"
+
+#~ msgid "Webpage"
+#~ msgstr "Домашняя страница"
+
+#~ msgid "Customize minimum and maximum opacity values"
+#~ msgstr "Настройка минимального и максимального значения прозрачности"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "Показать Док, если он скрыт"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Сочетания клавиш для указанных параметров"
+
+#~ msgid "Autohide"
+#~ msgstr "Автоматически скрывать"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Надавить для появления: требуется давление для открытия Дока"
+
+#~ msgid "All windows"
+#~ msgstr "Все окна"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Только активное окно приложения"
+
+#~ msgid "Created by"
+#~ msgstr "Автор"
+
+#~ msgid "Adaptive"
+#~ msgstr "Адаптивная"
+
+#~ msgid "Show a dot for each windows of the application."
+#~ msgstr "Отображает точку для каждого окна приложения."
+
+#~ msgid ""
+#~ "With fixed icon size, only the edge of the dock and the <i>Show "
+#~ "Applications</i> icon are active."
+#~ msgstr ""
+#~ "При фиксированном размере иконок приложений активна только область иконки "
+#~ "<i>«Приложения»</i> и край дока."
+
+#~ msgid "Switch workspace by scrolling on the dock"
+#~ msgstr "Переключать рабочие столы при прокрутке на Доке"
+
+#~ msgid "Only consider windows of the focused application"
+#~ msgstr "Применить только к активным окнам приложений"
+
+#~ msgid "Show delay [ms]"
+#~ msgstr "Задержка перед появлением [мс]"
+
+#~ msgid "Hide delay [ms]"
+#~ msgstr "Задержка перед скрытием [мс]"
+
+#~ msgid "Application based intellihide"
+#~ msgstr "Интеллектуальное скрытие действует только для активных окон"
+
+#~ msgid "Show the dock on following monitor (if attached)"
+#~ msgstr "Показывать Док на дополнительном мониторе (если подключен)"
+
+#~ msgid "Primary (default)"
+#~ msgstr "Главный (по умолчанию)"
+
+#~ msgid "Max height"
+#~ msgstr "Максимальная высота"
+
+#~ msgid "Expand (experimental and buggy)"
+#~ msgstr "Расширяемый (экспериментально и неустойчиво)"
+
+#~ msgid "Maximum icon size"
+#~ msgstr "Максимальный размер иконки"
+
+#~ msgid "Optional features"
+#~ msgstr "Дополнительные функции"
+
+#~ msgid "Deadtime between each workspace switching [ms]"
+#~ msgstr "Задержка между каждым переключением [мс]"
+
+#~ msgid "Only a 1px wide area close to the screen edge is active"
+#~ msgstr "Активная область - 1 пиксель от края экрана"
+
+#~ msgid "All the area of the dock is active"
+#~ msgstr "Активен весь Док"
+
+#~ msgid "Customize actions on mouse click"
+#~ msgstr "Настроить действия по нажатию мыши"
+
+#~ msgid "Action on clicking on running app"
+#~ msgstr "Действие по нажатию на иконку запущенного приложения"
+
+#~ msgid "Minimize window on shift+click (double click for all app windows)"
+#~ msgstr ""
+#~ "Минимизировать окно при shift+click (двойное нажатие скрывает все окна "
+#~ "приложений)"
+
+#~ msgid "Make message tray insensitive to mouse events"
+#~ msgstr "Сделать область сообщений нечувствительной к мыши"
+
+#~ msgid "Appearence and Themes"
+#~ msgstr "Внешний вид и Темы"
+
+#~ msgid ""
+#~ "A customized theme is built in the extension. This is meant to work with "
+#~ "the default Adwaita theme: the dash is shrunk to save space, its "
+#~ "background transparency reduced, and custom indicators for the number of "
+#~ "windows of each application are added."
+#~ msgstr ""
+#~ "Тема встроена в расширение. Она оптимизирована для темы Adwaita по "
+#~ "умолчанию: Док уменьшен, чтобы сохранить пространство; прозрачность фона "
+#~ "снижена; включены индикаторы количества окон для каждого приложения."
+
+#~ msgid ""
+#~ "Alternatively, for a better integration with custom themes, each "
+#~ "customization can be applied indipendently"
+#~ msgstr ""
+#~ "Для большей интеграции с пользовательской темой, каждый параметр можно "
+#~ "настроить независимо"
+
+#~ msgid "Shrink the dash size by reducing padding"
+#~ msgstr "Уменьшить Док за счёт промежутков"

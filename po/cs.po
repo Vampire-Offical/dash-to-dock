@@ -1,0 +1,709 @@
+# Translation for cs
+# Copyright (C) 2014 Michele
+# This file is distributed under the same license as the dash-to-dock package.
+# Jiří Doubravský <jiri.doubravsky@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2020-05-16 13:54+0200\n"
+"Last-Translator: Daniel Rusek <mail@asciiwolf.com>\n"
+"Language-Team: CZECH <jiri.doubravsky@gmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Uhýbání oknům"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Uhýbání oknům"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Zobrazit oblíbené aplikace"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Zobrazit oblíbené aplikace"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "Zobrazit náhledy oken"
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "Ukončit"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+msgid "Settings"
+msgstr ""
+
+#: locations.js:884
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr ""
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Shift + levé tlačítko"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Pokud je nastavena minimalizace, dvojklik minimalizuje všechna okna aplikace."
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "Přenést okno do popředí"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "Minimalizovat okno"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "Spustit novou instanci"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "Přepínat mezi okny"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+msgid "Minimize or overview"
+msgstr "Minimalizovat nebo zobrazit přehled"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+msgid "Show window previews"
+msgstr "Zobrazit náhledy oken"
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+msgid "Minimize or show previews"
+msgstr "Minimalizovat nebo zobrazit náhledy oken"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+msgid "Focus or show previews"
+msgstr "Zaměřit nebo zobrazit náhledy oken"
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+#, fuzzy
+msgid "Focus, minimize or show previews"
+msgstr "Minimalizovat nebo zobrazit náhledy oken"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Prostřední tlačítko"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "Chování při kliknutím prostředního tlačítka"
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Shift + prostřední tlačítko"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Chování při kliknutím prostředního tlačítka a stiknuté klávese Shift"
+
+#: Settings.ui:126
+#, fuzzy
+msgid "Enable Unity 7-like Backlit Items"
+msgstr "Podsvícení ikon jako v Unity 7"
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+#, fuzzy
+msgid "Use Dominant Color"
+msgstr "Použít převládající barvu ikony"
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Vlastní styl indikátorů"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Barva"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Barva ohraničení"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Šířka ohraničení"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Zobrazit oblíbené aplikace"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Zobrazit spuštěné aplikace"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Izolovat pracovní plochy"
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Izolovat obrazovky"
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Uhýbání oknům"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "Zobrazit náhledy oken"
+
+#: Settings.ui:303
+msgid "Focused Apps Always Visible"
+msgstr ""
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "Tlačítko přístupu ke všem aplikacím"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Pokud je zakázáno, jsou tato nastavení dostupná z GNOME Tweaks nebo z webové "
+"stránky GNOME Shell Extensions."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "Zobrazit koš"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "Zobrazit náhledy oken"
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+msgid "Isolate Windows From File Manager"
+msgstr ""
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Chování"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "Kde zobrazit dok"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Izolovat obrazovky"
+
+#: Settings.ui:446
+msgid "Window Preview Size Scale"
+msgstr ""
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Klávesová zkratka pro aktivaci aplikací"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Povolit klávesovou zkratku Super+[0-9] pro spuštění aplikací; tuto "
+"klávesovou zkratku lze též použít s klávesami Shift a Ctrl."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Kliknutí tlačítkem myši"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Chování při kliknutí na ikonu běžící aplikace"
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "Minimalizovat"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Rolování kolečkem myši"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Chování při rolování na ikoně běžící aplikace"
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "Nedělat nic"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "Přepnout pracovní plochu"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Použít výchozí motiv doku"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr "Prostorově méně náročné zobrazení (zmenšení volného místa kolem ikon)"
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Vlastní styl indikátorů"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr "Výchozí"
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr "Tečky"
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr "Čtverečky"
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr "Čárky"
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr "Dělená linka"
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr "Plná linka"
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr "Styl Ciliora"
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr "Styl Metro"
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Barva"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "Nastavit barvu pozadí doku"
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Průhlednost"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "Nastavit průhlednost doku"
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr "Neměnná"
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr "Dynamická"
+
+#: Settings.ui:748
+#, fuzzy
+msgid "Squared Corners"
+msgstr "Čtverečky"
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "O tomto doplňku"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Vytvoří dok z přehledu činností a oblíbených aplikací"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "verze: "
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Na tento program NEJSOU POSKYTOVÁNY ZÁRUKY.\n"
+"Podrobněji viz <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0."
+"html\">GNU General Public License, verze 2 nebo pozdější</a>.</span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Přizpůsobení průhlednosti"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Minimální průhlednost"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Maximální průhlednost"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Čísla aplikací"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr "Krátce ukázat čísla aplikací odpovídající klávesové zkratce"
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "Kde zobrazit dok"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Pokud je nastaveno automatické skrývání, stisknutím klávesové zkratky se dok "
+"krátce zobrazí."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Syntaxe: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Prodleva při skrytí (s)"
+
+#, fuzzy
+#~ msgid "Primary monitor: "
+#~ msgstr "Hlavní obrazovka"
+
+#~ msgid "Secondary monitor "
+#~ msgstr "Sekundární obrazovka "
+
+#~ msgid "Right"
+#~ msgstr "Vpravo"
+
+#~ msgid "Left"
+#~ msgstr "Vlevo"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Přizpůsobení chytrého skrývání"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Obnovit výchozí nastavení"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "Zobrazování doku a čísel aplikací"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Nastavit chování prostředního tlačítka"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Nastavit indikátory spuštěných aplikací"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Přizpůsobení průhlednosti"
+
+#~ msgid "All Windows"
+#~ msgstr "Všechna okna"
+
+#, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "Ukončit %d oken"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "%s Dash to Docku"
+
+#~ msgid "Mount"
+#~ msgstr "Připojit"
+
+#~ msgid "Unmount"
+#~ msgstr "Odpojit"
+
+#~ msgid "Eject"
+#~ msgstr "Vysunout"
+
+#~ msgid "Trash"
+#~ msgstr "Koš"
+
+#~ msgid "Empty Trash"
+#~ msgstr "Vyprázdnit koš"
+
+#~ msgid "Bottom"
+#~ msgstr "Dole"
+
+#~ msgid "Top"
+#~ msgstr "Nahoře"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Chytré skrývání"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "Skrýt dok, pokud překáží oknu aktivní aplikace. K dispozici jsou "
+#~ "podrobnější nastavení."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Maximální velikost doku"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Maximální velikost ikon"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr ""
+#~ "Neměnná velikost ikon (rolováním na doku je možné zobrazit další ikony)"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "Zobrazit dok najetím myši ke kraji obrazovky"
+
+#, fuzzy
+#~ msgid "Push to Show Dock"
+#~ msgstr "%s Dash to Docku"
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Povolit celoobrazovkový režim"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr "Zobrazit dok pokud nepřekáží oknům aplikací"
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Ukončit %d oken"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Pouze maximalizovaná okna"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Trvání animace (s)"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Prodleva při skrytí (s)"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Prodleva při zobrazení (s)"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Míra tlaku (px)"
+
+#~ msgid "Show on all monitors."
+#~ msgstr "Zobrazit na všech obrazovkách"
+
+#~ msgid "Position on screen"
+#~ msgstr "Umístění na obrazovce"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Režim panelu (roztáhnout dok po celé délce obrazovky)"
+
+#~ msgid "Position and size"
+#~ msgstr "Umístění a velikost"
+
+#, fuzzy
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Zobrazit náhledy oken"
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Zobrazit náhledy oken"
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Přesunout tlačítko přístupu ke všem aplikacím na začátek doku"
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "Animace při zobrazení všech aplikací"
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Zobrazit připojené svazky a zařízení"
+
+#~ msgid "Launchers"
+#~ msgstr "Spouštěče"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Nastavení kvůli integraci doku s výchozím motivem GNOME; jinak lze použít "
+#~ "samostatné předvolby níže."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "Zmenšený dok"
+
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Indikátory počtu otevřených oken"
+
+#~ msgid "Customize the dash color"
+#~ msgstr "Vlastní barva doku"
+
+#~ msgid "Force straight corner"
+#~ msgstr "Zakázat zaoblené rohy"
+
+#~ msgid "Webpage"
+#~ msgstr "Webová stránka"
+
+#~ msgid "Customize minimum and maximum opacity values"
+#~ msgstr "Nastavit minimální a maximální hodnoty průhlednosti"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "Zobrazit dok, pokud je skrytý"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Klávesová zkratka"
+
+#~ msgid "Autohide"
+#~ msgstr "Automatické skrývání"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Zobrazit dok až po zatlačení na kraj obrazovky"
+
+#~ msgid "All windows"
+#~ msgstr "Všechna okna"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Pouze aktivní okna"
+
+#~ msgid "Created by"
+#~ msgstr "Autor"
+
+#~ msgid "Show a dot for each windows of the application."
+#~ msgstr "Zobrazit u ikon tečku indikující každé otevřené okno aplikace"
+
+#~ msgid "Show windows counter indicators"
+#~ msgstr "Indikátory počtu oken"
+
+#~ msgid "Adaptive"
+#~ msgstr "Adaptivní"

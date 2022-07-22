@@ -1,0 +1,708 @@
+# Hungarian translation for dash-to-dock.
+# Copyright (C) 2017, 2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the dash-to-dock package.
+#
+# Balázs Úr <ur.balazs at fsf dot hu>, 2017, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2017-04-10 22:02+0100\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <openscope@googlegroups.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Ablakok kikerülése"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Ablakok kikerülése"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Kedvenc alkalmazások megjelenítése"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Kedvenc alkalmazások megjelenítése"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "Kilépés"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+msgid "Settings"
+msgstr ""
+
+#: locations.js:884
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr "Nem sikerült a(z) „%s” indítása"
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Shift + kattintás művelet"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Ha minimalizálásra van állítva, akkor a dupla kattintás az alkalmazás összes "
+"ablakát minimalizálja."
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "Ablak előre hozása"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "Ablak minimalizálása"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "Új példány indítása"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "Ablakok körbeléptetése"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+#, fuzzy
+msgid "Minimize or overview"
+msgstr "Ablak minimalizálása"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+#, fuzzy
+msgid "Show window previews"
+msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+#, fuzzy
+msgid "Minimize or show previews"
+msgstr "Ablak minimalizálása"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+#, fuzzy
+msgid "Focus or show previews"
+msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+#, fuzzy
+msgid "Focus, minimize or show previews"
+msgstr "Ablak minimalizálása"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Középső kattintás művelet"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "A középső kattintás viselkedése."
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Shift + középső kattintás művelet"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "A Shift + középső kattintás viselkedése."
+
+#: Settings.ui:126
+msgid "Enable Unity 7-like Backlit Items"
+msgstr ""
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+msgid "Use Dominant Color"
+msgstr ""
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Jelző stílusának személyre szabása"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Szín"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Szegély színe"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Szegély szélessége"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Kedvenc alkalmazások megjelenítése"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Futó alkalmazások megjelenítése"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Munkaterületek elkülönítése."
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Munkaterületek elkülönítése."
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Ablakok kikerülése"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#: Settings.ui:303
+msgid "Focused Apps Always Visible"
+msgstr ""
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "<i>Alkalmazások</i> ikon megjelenítése"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Ha le van tiltva, akkor ezek a beállítások elérhetők a GNOME finomhangoló "
+"eszközből vagy a kiegészítők weboldaláról."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "A dokk megjelenítése"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+msgid "Isolate Windows From File Manager"
+msgstr ""
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Viselkedés"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "A dokk megjelenítése"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Munkaterületek elkülönítése."
+
+#: Settings.ui:446
+msgid "Window Preview Size Scale"
+msgstr ""
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Gyorsbillentyűk használata az alkalmazások aktiválásához"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Szuper + (0-9) engedélyezése gyorsbillentyűként az alkalmazások "
+"aktiválásához. Használható a Shift és a Ctrl billentyűkkel együtt is."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Kattintás művelet"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Viselkedés egy futó alkalmazás ikonjára való kattintáskor."
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "Minimalizálás"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Görgetési művelet"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Viselkedés egy alkalmazás ikonján való görgetéskor."
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "Ne tegyen semmit"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "Munkaterület váltása"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Beépített téma használata"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr "Helymegtakarítás a kitöltés és a szegély sugarának csökkentésével."
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Jelző stílusának személyre szabása"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr ""
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr ""
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr ""
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr ""
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr ""
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr ""
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr ""
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr ""
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Szín"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "A dash háttérszínének beállítása."
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Átlátszatlanság"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "A dash háttér átlátszatlanságának finomhangolása."
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr ""
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr ""
+
+#: Settings.ui:748
+msgid "Squared Corners"
+msgstr ""
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "Névjegy"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Áthelyezi a dasht az áttekintőn kívülre egy dokká alakítva azt"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "verzió: "
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Ehhez a programhoz SEMMILYEN GARANCIA NEM JÁR.\n"
+"Nézze meg a <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "
+"\">GNU General Public License 2. vagy későbbi verzióját</a> a részletekért.</"
+"span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Átlátszatlanság személyre szabása"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Átlátszatlanság személyre szabása"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Átlátszatlanság személyre szabása"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Szám rátét"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr ""
+"Az alkalmazás számainak átmeneti megjelenítése az ikonok fölött a "
+"gyorsbillentyűnek megfelelően."
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "A dokk megjelenítése"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Az automatikus elrejtés használatakor a dokk meg fog jelenni egy rövid ideig "
+"a gyorsbillentyű megnyomásakor."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Szintaxis: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Elrejtési időkorlát (mp)"
+
+#, fuzzy
+#~ msgid "Primary monitor: "
+#~ msgstr "Elsődleges kijelző"
+
+#~ msgid "Secondary monitor "
+#~ msgstr "Másodlagos kijelző"
+
+#~ msgid "Right"
+#~ msgstr "Jobbra"
+
+#~ msgid "Left"
+#~ msgstr "Balra"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Intelligens automatikus elrejtés személyre szabása"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Visszaállítás az alapértékekre"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "A dokk és az alkalmazás számainak megjelenítése"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Középső kattintás viselkedésének személyre szabása"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Futásjelzők személyre szabása"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Átlátszatlanság személyre szabása"
+
+#~ msgid "All Windows"
+#~ msgstr "Összes ablak"
+
+#, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "%d ablak bezárása"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "„Dashből dokk” %s"
+
+#~ msgid "Trash"
+#~ msgstr "Kuka"
+
+#~ msgid "Empty Trash"
+#~ msgstr "Kuka ürítése"
+
+#~ msgid "Mount"
+#~ msgstr "Csatolás"
+
+#~ msgid "Eject"
+#~ msgstr "Kiadás"
+
+#~ msgid "Unmount"
+#~ msgstr "Leválasztás"
+
+#~ msgid "Bottom"
+#~ msgstr "Lent"
+
+#~ msgid "Top"
+#~ msgstr "Fent"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Intelligens automatikus elrejtés"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "A dokk elrejtése, amikor az aktuális alkalmazás ablakát akadályozza. "
+#~ "További finombeállítások is elérhetők."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Dokk méretkorlátja"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Ikon méretkorlátja"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr "Rögzített ikonméret: görgetés egyéb ikonok felfedéséhez"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "A dokk megjelenítése a képernyő szélére történő egér rámutatással."
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Engedélyezés teljes képernyős módban"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr ""
+#~ "A dokk megjelenítése, amikor nem akadályozza az alkalmazás ablakait."
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Összes Ablak"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Csak a maximalizált ablakok"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Animáció időtartama (mp)"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Elrejtési időkorlát (mp)"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Megjelenítési időkorlát (mp)"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Nyomás küszöbszintje"
+
+#, fuzzy
+#~ msgid "Show on all monitors."
+#~ msgstr "Másodlagos kijelző"
+
+#~ msgid "Position on screen"
+#~ msgstr "Elhelyezkedés a képernyőn"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Panel mód: kiterjesztés a képernyő széléig"
+
+#~ msgid "Position and size"
+#~ msgstr "Elhelyezkedés és méret"
+
+#, fuzzy
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Az alkalmazások gombjának áthelyezése a dokk elejére."
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "<i>Alkalmazások megjelenítése</i> animálása."
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Nyitott ablakok előnézeteinek megjelenítése."
+
+#~ msgid "Launchers"
+#~ msgstr "Indítok"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Néhány személyre szabás célja, hogy integrálja a dokkot az "
+#~ "alapértelmezett GNOME témába. Alternatív esetben bizonyos beállítások "
+#~ "engedélyezhetők lent."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "A dash zsugorítása"
+
+#, fuzzy
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Ablakszámlálók jelzőinek megjelenítése"
+
+#~ msgid "Customize the dash color"
+#~ msgstr "A dash színének személyre szabása"
+
+#, fuzzy
+#~ msgid "Force straight corner"
+#~ msgstr "Egyenes sarok kényszerítése\n"
+
+#~ msgid "Webpage"
+#~ msgstr "Weboldal"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "A dokk megjelenítése, ha el van rejtve"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Gyorsbillentyűk a fenti beállításokhoz"
+
+#~ msgid "Autohide"
+#~ msgstr "Automatikus elrejtés"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Nyomás a megjelenítéshez: nyomást igényel a dokk megjelenítéséhez"
+
+#~ msgid "All windows"
+#~ msgstr "Összes ablak"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Csak a kijelölt alkalmazások ablakai"
+
+#~ msgid "Show a dot for each windows of the application."
+#~ msgstr "Egy pont megjelenítése az alkalmazás minden ablakánál."
+
+#~ msgid "Created by"
+#~ msgstr "Létrehozta"
+
+#~ msgid "0.000"
+#~ msgstr "0,000"

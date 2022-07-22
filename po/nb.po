@@ -1,0 +1,690 @@
+# Norwegian Bokmål translation for Dash to Dock.
+# Copyright (C) 2018 Michele
+# This file is distributed under the same license as the dash-to-dock package.
+# Harald H. <harald@fsfe.org>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash-to-Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 17:42-0700\n"
+"PO-Revision-Date: 2018-03-02 11:02+0100\n"
+"Last-Translator: Harald H. <harald@fsfe.org>\n"
+"Language-Team: \n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translators: This is the heading of a list of open windows
+#: appIcons.js:981
+#, fuzzy
+msgid "Open Windows"
+msgstr "Smett unna vinduer"
+
+#: appIcons.js:1001
+#, fuzzy
+msgid "New Window"
+msgstr "Smett unna vinduer"
+
+#: appIcons.js:1019
+msgid "Launch using Integrated Graphics Card"
+msgstr ""
+
+#: appIcons.js:1020
+msgid "Launch using Discrete Graphics Card"
+msgstr ""
+
+#: appIcons.js:1049
+msgid "Unpin"
+msgstr ""
+
+#: appIcons.js:1050
+#, fuzzy
+msgid "Remove from Favorites"
+msgstr "Vis favorittprogrammer"
+
+#: appIcons.js:1057
+msgid "Pin to Dash"
+msgstr ""
+
+#: appIcons.js:1058
+#, fuzzy
+msgid "Add to Favorites"
+msgstr "Vis favorittprogrammer"
+
+#: appIcons.js:1070
+#, fuzzy
+msgid "Show Details"
+msgstr "Vis forhåndsvisning"
+
+#: appIcons.js:1107 appIcons.js:1119 Settings.ui:38 Settings.ui:62
+#: Settings.ui:86
+msgid "Quit"
+msgstr "Avslutt"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1336
+msgid "Settings"
+msgstr ""
+
+#: locations.js:884
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr ""
+
+#: Settings.ui:22
+#, fuzzy
+msgid "Shift+Click Action"
+msgstr "Handling for Shift + klikk"
+
+#: Settings.ui:23
+#, fuzzy
+msgid ""
+"If set to Minimize window, double clicking minimizes all windows of one app."
+msgstr ""
+"Når satt til minimer vil dobbeltklikking minimere alle åpne instanser av "
+"programmet."
+
+#: Settings.ui:29 Settings.ui:53 Settings.ui:77 Settings.ui:542
+msgid "Raise window"
+msgstr "Fremhev vindu"
+
+#: Settings.ui:30 Settings.ui:54 Settings.ui:78
+msgid "Minimize window"
+msgstr "Minimer vindu"
+
+#: Settings.ui:31 Settings.ui:55 Settings.ui:79 Settings.ui:544
+msgid "Launch new instance"
+msgstr "Åpne ny instans"
+
+#: Settings.ui:32 Settings.ui:56 Settings.ui:80 Settings.ui:545 Settings.ui:573
+msgid "Cycle through windows"
+msgstr "Veksle mellom vinduer"
+
+#: Settings.ui:33 Settings.ui:57 Settings.ui:81 Settings.ui:546
+msgid "Minimize or overview"
+msgstr "Minimer eller oversikt"
+
+#: Settings.ui:34 Settings.ui:58 Settings.ui:82 Settings.ui:547
+msgid "Show window previews"
+msgstr "Vis forhåndsvisning"
+
+#: Settings.ui:35 Settings.ui:59 Settings.ui:83 Settings.ui:548
+#, fuzzy
+msgid "Minimize or show previews"
+msgstr "Minimer eller oversikt"
+
+#: Settings.ui:36 Settings.ui:60 Settings.ui:84 Settings.ui:549
+#, fuzzy
+msgid "Focus or show previews"
+msgstr "Vis forhåndsvisning"
+
+#: Settings.ui:37 Settings.ui:61 Settings.ui:85 Settings.ui:550
+#, fuzzy
+msgid "Focus, minimize or show previews"
+msgstr "Minimer eller oversikt"
+
+#: Settings.ui:46
+#, fuzzy
+msgid "Middle-Click Action"
+msgstr "Mellomklikk"
+
+#: Settings.ui:47
+msgid "Behavior for Middle-Click."
+msgstr "Oppførsel for mellomklikk."
+
+#: Settings.ui:70
+#, fuzzy
+msgid "Shift+Middle-Click Action"
+msgstr "Shift + mellomklikk"
+
+#: Settings.ui:71
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Oppførsel for Shift + mellomklikk."
+
+#: Settings.ui:126
+#, fuzzy
+msgid "Enable Unity 7-like Backlit Items"
+msgstr "Aktiver Unity7-lignende bakgrunnsglans"
+
+#: Settings.ui:138
+msgid "Glossy"
+msgstr ""
+
+#: Settings.ui:148
+#, fuzzy
+msgid "Use Dominant Color"
+msgstr "Bruk dominerende farge"
+
+#: Settings.ui:159
+#, fuzzy
+msgid "Customize Indicator Style"
+msgstr "Tilpass indikatorstil"
+
+#: Settings.ui:169
+#, fuzzy
+msgid "Fill Color"
+msgstr "Farge"
+
+#: Settings.ui:180
+#, fuzzy
+msgid "Border Color"
+msgstr "Kantfarge"
+
+#: Settings.ui:191
+#, fuzzy
+msgid "Border Width"
+msgstr "Kantbredde"
+
+#: Settings.ui:223
+msgid "Apps"
+msgstr ""
+
+#: Settings.ui:237
+#, fuzzy
+msgid "Show Favorites"
+msgstr "Vis favorittprogrammer"
+
+#: Settings.ui:252
+#, fuzzy
+msgid "Show Running Apps"
+msgstr "Vis kjørende programmer"
+
+#: Settings.ui:261
+#, fuzzy
+msgid "Isolate Workspaces"
+msgstr "Isoler arbeidsområder."
+
+#: Settings.ui:271
+#, fuzzy
+msgid "Isolate Monitors"
+msgstr "Isoler skjermer."
+
+#: Settings.ui:281
+#, fuzzy
+msgid "Show Urgent Windows"
+msgstr "Smett unna vinduer"
+
+#: Settings.ui:291
+#, fuzzy
+msgid "Show Window Previews"
+msgstr "Vis forhåndsvisning"
+
+#: Settings.ui:303
+msgid "Focused Apps Always Visible"
+msgstr ""
+
+#: Settings.ui:313
+#, fuzzy
+msgid "Show <i>Apps</i> Icon"
+msgstr "Vis <i>programmer</i> ikon"
+
+#: Settings.ui:314
+#, fuzzy
+msgid "If disabled, these settings are accessible from gnome-tweak-tool."
+msgstr ""
+"Om deaktivert er disse innstillingene tilgjengelig i gnome-tweak-tool eller "
+"på nettsiden for utvidelser."
+
+#: Settings.ui:323
+msgid "Move Apps Icon As First Icon"
+msgstr ""
+
+#: Settings.ui:333
+msgid "Animate Opening Apps Grid"
+msgstr ""
+
+#: Settings.ui:345
+#, fuzzy
+msgid "Show Trash Icon"
+msgstr "Vis dokken på"
+
+#: Settings.ui:355
+#, fuzzy
+msgid "Show Devices"
+msgstr "Vis forhåndsvisning"
+
+#: Settings.ui:364
+msgid "Mounted Only"
+msgstr ""
+
+#: Settings.ui:374
+msgid "Include Network Devices"
+msgstr ""
+
+#: Settings.ui:384
+msgid "Isolate Windows From File Manager"
+msgstr ""
+
+#: Settings.ui:400
+#, fuzzy
+msgid "Behaviour"
+msgstr "Oppførsel"
+
+#: Settings.ui:407
+#, fuzzy
+msgid "Show Dock On"
+msgstr "Vis dokken på"
+
+#: Settings.ui:423
+#, fuzzy
+msgid "All Monitors"
+msgstr "Isoler skjermer."
+
+#: Settings.ui:446
+msgid "Window Preview Size Scale"
+msgstr ""
+
+#: Settings.ui:477
+#, fuzzy
+msgid "Keyboard Shortcuts To Activate Apps"
+msgstr "Bruk tastatursnarveier for å åpne apper"
+
+#: Settings.ui:478
+#, fuzzy
+msgid "Enable Super+(0-9) to activate apps. Shift and Ctrl also can be used."
+msgstr ""
+"Bruk Super+(0-9) som snarvei for å aktivere apper. Den kan også brukes i "
+"kombinasjon med Shift og Ctrl."
+
+#: Settings.ui:516
+#, fuzzy
+msgid "Click Action"
+msgstr "Klikkhandling"
+
+#: Settings.ui:517
+#, fuzzy
+msgid "Behaviour when clicking on a running app icon."
+msgstr "Oppførsel når du klikker på ikonet for et åpent program."
+
+#: Settings.ui:543
+msgid "Minimize"
+msgstr "Minimer"
+
+#: Settings.ui:565
+#, fuzzy
+msgid "Scroll Action"
+msgstr "Rullehandling"
+
+#: Settings.ui:566
+#, fuzzy
+msgid "Behaviour when scrolling on an app icon."
+msgstr "Oppførsel ved rulling over et programikon."
+
+#: Settings.ui:572
+msgid "Do nothing"
+msgstr "Ikke gjør noe"
+
+#: Settings.ui:574
+msgid "Switch workspace"
+msgstr "Bytt arbeidsområde"
+
+#: Settings.ui:584
+msgid "Appearance"
+msgstr "Utseende"
+
+#: Settings.ui:591
+#, fuzzy
+msgid "Built-in Theme"
+msgstr "Bruk innebygget tema"
+
+#: Settings.ui:592
+msgid "Integrates the dock with the default GNOME theme."
+msgstr ""
+
+#: Settings.ui:614
+msgid "Shrink Dock"
+msgstr ""
+
+#: Settings.ui:615
+msgid "Save space reducing padding and border radius."
+msgstr "Spar plass ved å redusere utfylling og kant-radius."
+
+#: Settings.ui:625
+#, fuzzy
+msgid "Customize Indicators"
+msgstr "Tilpass indikatorstil"
+
+#: Settings.ui:644 Settings.ui:716
+msgid "Default"
+msgstr "Standard"
+
+#: Settings.ui:645
+msgid "Dots"
+msgstr "Prikker"
+
+#: Settings.ui:646
+msgid "Squares"
+msgstr "Firkanter"
+
+#: Settings.ui:647
+msgid "Dashes"
+msgstr "Streker"
+
+#: Settings.ui:648
+msgid "Segmented"
+msgstr "Segmentert"
+
+#: Settings.ui:649
+msgid "Solid"
+msgstr "Solid"
+
+#: Settings.ui:650
+msgid "Ciliora"
+msgstr "Ciliora"
+
+#: Settings.ui:651
+msgid "Metro"
+msgstr "Metro"
+
+#: Settings.ui:661
+#, fuzzy
+msgid "Dock Color"
+msgstr "Farge"
+
+#: Settings.ui:662
+#, fuzzy
+msgid "Set the dock background color."
+msgstr "Avgjør bakgrunnsfargen."
+
+#: Settings.ui:683
+#, fuzzy
+msgid "Dock Opacity"
+msgstr "Gjennomsiktighet"
+
+#: Settings.ui:684
+#, fuzzy
+msgid "Set the dock background opacity."
+msgstr "Justere bakgrunnens gjennomsiktighet."
+
+#: Settings.ui:717
+msgid "Fixed"
+msgstr "Fast"
+
+#: Settings.ui:718
+msgid "Dynamic"
+msgstr "Dynamisk"
+
+#: Settings.ui:748
+#, fuzzy
+msgid "Squared Corners"
+msgstr "Firkanter"
+
+#: Settings.ui:758
+msgid "Show Overview On Logon"
+msgstr ""
+
+#: Settings.ui:772
+msgid "About"
+msgstr "Om"
+
+#: Settings.ui:787
+#, fuzzy
+msgid "Moves the dash out of the overview transforming it into a dock."
+msgstr "Flytter dash ut av oversikten og omformer den til en dokk"
+
+#: Settings.ui:796
+#, fuzzy
+msgid "Version"
+msgstr "versjon: "
+
+#: Settings.ui:820
+msgid "Original Author"
+msgstr ""
+
+#: Settings.ui:840
+msgid "Authors"
+msgstr ""
+
+#: Settings.ui:874
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Dette programmet leveres med ABSOLUTT INGEN GARANTI.\n"
+"Se <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU "
+"General Public License, versjon 2 eller senere</a> for detaljer.</span>"
+
+#: Settings.ui:908
+#, fuzzy
+msgid "Customize Opacity"
+msgstr "Tilpass gjennomsiktighet"
+
+#: Settings.ui:917
+#, fuzzy
+msgid "Minimum Opacity"
+msgstr "Minimum gjennomsiktighet"
+
+#: Settings.ui:937
+#, fuzzy
+msgid "Maximum Opacity"
+msgstr "Maksimum gjennomsiktighet"
+
+#: Settings.ui:980
+#, fuzzy
+msgid "Number Overlay"
+msgstr "Nummerert overlag"
+
+#: Settings.ui:981
+#, fuzzy
+msgid ""
+"Show the app numbers over the icons briefly, corresponding to the shortcut."
+msgstr "Midlertidig vis programnummer over ikoner, som svarer til snarveien."
+
+#: Settings.ui:991
+#, fuzzy
+msgid "Show Hidden Dock"
+msgstr "Vis dokken på"
+
+#: Settings.ui:992
+#, fuzzy
+msgid "Show dock briefly when triggering the shortcut."
+msgstr ""
+"Om autoskjul er i bruk vil dokken vises en kort stund når snarveien utløses."
+
+#: Settings.ui:1002
+msgid "Keyboard Shortcut"
+msgstr ""
+
+#: Settings.ui:1003
+#, fuzzy
+msgid "Syntax: Shift, Ctrl, Alt, Super."
+msgstr "Syntaks: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:1014
+#, fuzzy
+msgid "Hide Timeout"
+msgstr "Skjuleperiode (s)"
+
+#, fuzzy
+#~ msgid "Primary monitor: "
+#~ msgstr "Primærskjerm"
+
+#~ msgid "Secondary monitor "
+#~ msgstr "Sekundærskjerm"
+
+#~ msgid "Right"
+#~ msgstr "Høyre"
+
+#~ msgid "Left"
+#~ msgstr "Venstre"
+
+#~ msgid "Intelligent autohide customization"
+#~ msgstr "Tilpass intelligent autoskjul"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Tilbakestill til standard"
+
+#~ msgid "Show dock and application numbers"
+#~ msgstr "Vis dokk og programnumre"
+
+#~ msgid "Customize middle-click behavior"
+#~ msgstr "Tilpass oppførsel for mellomklikk"
+
+#~ msgid "Customize running indicators"
+#~ msgstr "Tilpass kjørende indikatorer"
+
+#~ msgid "Customize opacity"
+#~ msgstr "Tilpass gjennomsiktighet"
+
+#~ msgid "All Windows"
+#~ msgstr "Alle vinduer"
+
+#, fuzzy, javascript-format
+#~ msgid "Quit %d Windows"
+#~ msgstr "Alle vinduer"
+
+#, javascript-format
+#~ msgid "Dash to Dock %s"
+#~ msgstr "Dash to Dock %s"
+
+#~ msgid "Bottom"
+#~ msgstr "Bunn"
+
+#~ msgid "Top"
+#~ msgstr "Topp"
+
+#, fuzzy
+#~ msgid "Intelligent Hiding"
+#~ msgstr "Intelligent autoskjul"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide the dock when a window is below it. More adjustments when enabled."
+#~ msgstr ""
+#~ "Skjul dokken når den forstyrrer et aktivt programvindu. Flere "
+#~ "innstillinger er tilgjengelig."
+
+#, fuzzy
+#~ msgid "Dock Size"
+#~ msgstr "Maks dokkstørrelse"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Ikonstørrelse"
+
+#, fuzzy
+#~ msgid "Fixed Size (Scroll to see more icons.)"
+#~ msgstr "Fast ikonstørrelse: rull for vise andre ikoner"
+
+#~ msgid "Show the dock by mouse hover on the screen edge."
+#~ msgstr "Vis dokken når musepekeren holdes langs skjermkanten."
+
+#, fuzzy
+#~ msgid "Push to Show Dock"
+#~ msgstr "Dash to Dock %s"
+
+#, fuzzy
+#~ msgid "Enable in Fullscreen"
+#~ msgstr "Aktiver i fullskjermmodus"
+
+#, fuzzy
+#~ msgid "Show the dock when it doesn't obstruct app windows."
+#~ msgstr "Vis dokken når den ikke forstyrrer programvinduer."
+
+#, fuzzy
+#~ msgid "Focused Windows"
+#~ msgstr "Alle vinduer"
+
+#, fuzzy
+#~ msgid "Maximized Windows"
+#~ msgstr "Kun maksimerte programvinduer"
+
+#~ msgid "Animation duration (s)"
+#~ msgstr "Animasjonsvarighet (s)"
+
+#~ msgid "Hide timeout (s)"
+#~ msgstr "Skjuleperiode (s)"
+
+#~ msgid "Show timeout (s)"
+#~ msgstr "Visningslengde (s)"
+
+#~ msgid "Pressure threshold"
+#~ msgstr "Trykkterskel"
+
+#~ msgid "Show on all monitors."
+#~ msgstr "Vis på alle skjermer."
+
+#~ msgid "Position on screen"
+#~ msgstr "Skjermposisjon"
+
+#~ msgid "Panel mode: extend to the screen edge"
+#~ msgstr "Panelmodus: strekker seg til skjermkanten"
+
+#~ msgid "Position and size"
+#~ msgstr "Posisjon og størrelse"
+
+#, fuzzy
+#~ msgid "Show urgent windows despite current workspace."
+#~ msgstr "Vis forhåndsvisning av åpne vinduer."
+
+#~ msgid "Show open windows previews."
+#~ msgstr "Vis forhåndsvisning av åpne vinduer."
+
+#~ msgid "Move the applications button at the beginning of the dock."
+#~ msgstr "Flytt programmer-knappen til starten av dokken."
+
+#~ msgid "Animate <i>Show Applications</i>."
+#~ msgstr "Animere <i>Vis programmer</i>."
+
+#, fuzzy
+#~ msgid "Show volumes and devices"
+#~ msgstr "Vis forhåndsvisning av åpne vinduer."
+
+#~ msgid "Launchers"
+#~ msgstr "Utløsere"
+
+#~ msgid ""
+#~ "Few customizations meant to integrate the dock with the default GNOME "
+#~ "theme. Alternatively, specific options can be enabled below."
+#~ msgstr ""
+#~ "Enkelte tilpasninger som forsøker å integrere dokken med det standard "
+#~ "GNOME-temaet. Alternativt kan bestemte valg aktiveres nedenfor."
+
+#~ msgid "Shrink the dash"
+#~ msgstr "Krymp dash"
+
+#~ msgid "Customize windows counter indicators"
+#~ msgstr "Tilpass vinduenes nummer-indikatorer"
+
+#~ msgid "Customize the dash color"
+#~ msgstr "Tilpass fargen"
+
+#, fuzzy
+#~ msgid "Force straight corner"
+#~ msgstr "Tving rette hjørner\n"
+
+#~ msgid "Webpage"
+#~ msgstr "Nettside"
+
+#~ msgid "Customize minimum and maximum opacity values"
+#~ msgstr "Tilpass verdier for minimum og maks gjennomsiktighet"
+
+#~ msgid "Show the dock if it is hidden"
+#~ msgstr "Vis dokken om den er skjult"
+
+#~ msgid "Shortcut for the options above"
+#~ msgstr "Snarvei for valgene ovenfor"
+
+#~ msgid "Autohide"
+#~ msgstr "Autoskjul"
+
+#~ msgid "Push to show: require pressure to show the dock"
+#~ msgstr "Dytt for å vise: krev et økt trykk for å vise dokken"
+
+#~ msgid "All windows"
+#~ msgstr "Alle vinduer"
+
+#~ msgid "Only focused application's windows"
+#~ msgstr "Kun fokuserte programvinduer"
+
+#~ msgid "Adaptive"
+#~ msgstr "Adaptiv"
+
+#~ msgid "Created by"
+#~ msgstr "Laget av"
